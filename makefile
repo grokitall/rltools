@@ -1,0 +1,4 @@
+#include debug.mk
+
+:all
+
