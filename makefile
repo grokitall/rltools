@@ -1,4 +1,5 @@
-#include debug.mk
+-include *.mk
 
-:all
+all:
 
+clean:
