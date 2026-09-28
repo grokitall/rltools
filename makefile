@@ -1,5 +1,5 @@
--include *.mk
-
 all:
+
+-include *.mk
 
 clean:
