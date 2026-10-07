@@ -1,3 +1,5 @@
 *.o
 *.d
 template
+rltest
+testresults/
