@@ -6,9 +6,8 @@
 /* 4 typedefs */
 /* 5 global variable declarations */
 /* 6 function prototypes */
+/* 7 function declarations */
 
 int main(int argc, char *argv[]) {
-/* 7 command-line parsing */
+/* 8 command-line parsing */
 }
-
-/* 8 function declarations */
