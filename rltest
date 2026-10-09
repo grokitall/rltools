@@ -1,0 +1,3 @@
+#!/bin/bash
+$2 $3 $4 >testresults/$1.new
+diff testresults/$1.txt testresults/$1.new
