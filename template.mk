@@ -8,5 +8,6 @@ template.o: template.c template.mk
 	$(CC) -c template.c $(cflags)
 
 test-template: template
-	./rltest ./template nothingtodo
-	./rltest './template --version' version
+	./rltest nothingtodo ./template
+	./rltest version ./template --version
+	./rltest help ./template --help
