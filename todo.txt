@@ -1,0 +1,28 @@
+feature requests
+bugs
+critical bugs
+
+feature requests:
+
+add report info
+add report error
+add report warning
+add set flag in args.c
+add read flag in args.c
+add set level in args.c
+add read level in args.c
+add --Wall flag in args.c
+add --Werror flag in args.c
+add --help flag in [program name].c
+add --usage flag in args.c
+add --version flag in args.c
+add undefined arguament handler in args.c
+add program name string in args.c
+add version string in args.c
+add long string function in args.c
+set program name string in [program name].c
+set version string in [program name].c
+
+bugs:
+
+critical bugs:
