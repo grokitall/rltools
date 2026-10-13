@@ -11,3 +11,4 @@ test-template: template
 	./rltest nothingtodo ./template
 	./rltest version ./template --version
 	./rltest help ./template --help
+	./rltest undefinedarguament ./template --undefinedarguament
