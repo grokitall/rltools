@@ -11,6 +11,7 @@ add set flag in args.c
 add read flag in args.c
 add set level in args.c
 add read level in args.c
+add --show-args to [program].c
 add --Wall flag in args.c
 add --Werror flag in args.c
 add --help flag in [program name].c
