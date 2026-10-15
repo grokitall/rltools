@@ -1,10 +1,10 @@
 all: test-template
 
-template: template.o template.mk
-	$(CC) -o template template.o $(cflags)
+template: template.o args.o template.mk
+	$(CC) -o template template.o args.o $(cflags)
 	./template
 
-template.o: template.c template.mk
+template.o: template.c args.h template.mk
 	$(CC) -c template.c $(cflags)
 
 test-template: template
